@@ -57,3 +57,4 @@ Cost Optimization: Understand which packaging and products drive the most spend.
 Seasonal Planning: Prep for order surges by identifying your busiest months.
 
 ## 📊 Snapshot of Dashboard
+![Dashboard.Previwe](https://github.com/Praful-Puned/Power_BI_Procurement_Spend_Analysis/blob/main/Procurement_Spend_Analysis_Snapshot%20(1).png)
